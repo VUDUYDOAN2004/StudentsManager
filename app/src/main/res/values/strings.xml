@@ -1,7 +1,9 @@
 <resources>
-    <string name="app_name">Students Manager</string>
-    <string name="add_student">Thêm Sinh Viên</string>
-    <string name="delete_button">Xóa</string>
-
-
+    <string name="app_name">StudentsManager</string>
+    <string name="name">Họ tên</string>
+    <string name="student_id">MSSV</string>
+    <string name="email">Email</string>
+    <string name="phone">SĐT</string>
+    <string name="fab_add_student_description">Add student</string>
+    <string name="recycler_view_description">List of students</string>
 </resources>
